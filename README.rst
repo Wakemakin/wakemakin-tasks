@@ -9,17 +9,13 @@ Guidelines
 ----------
 When creating github milestones and issues for progress tracking, please use the following guidelines:
 
-- Milestones should give an overview of what needs to be achieved by the specified completion date.  In addtion, it should list the issues (tasks) contained in the milestone as user driven features.  
+- Milestones should give an overview of what needs to be achieved by the specified completion date.
   
   For example:
   
     Create a basic web client.
 
-    - User can load a home page as a starting point for other web client features.
-    - User can load an about page to get basic info of web client.
-    - User can create a user account to sign in to access other web client features.
-
-- Issues (tasks) should be created for each user driven feature listed in the milestone description. The task should describe itself as a user driven feature and list the acceptance criteria to define task completion.  Once created, make sure issue was assigned to the milestone so that progress can be tracked correctly. 
+- Issues (tasks) should be created as a user driven feature and list the acceptance criteria to define task completion.  Once created, make sure issue is assigned to the milestone so that progress can be tracked correctly. 
 
   For example:
 
